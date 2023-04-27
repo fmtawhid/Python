@@ -9,7 +9,7 @@ mu_pen = turtle.Turtle(
 wn.bgcolor("black")
 turtle.colormode(255)
 mu_pen.pen()
-mu_pen.goto(-100, -200)
+mu_pen.goto(-100, -100)
 mu_pen.pendown()
 
 def my_squ(size):
